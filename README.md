@@ -29,7 +29,7 @@ In this tutorial, we will practice setting up different file permissions and acc
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/OBFtOuo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Step 1: Remote Desktop into both VMs that were used in the previous lab (DC-1 & Client-1). These are the subject VMs that will be used again for this lab with DC-1 being the Domain Controller once again. 
